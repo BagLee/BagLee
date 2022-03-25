@@ -1,4 +1,5 @@
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![aurelius467385-sonny-boy](https://user-images.githubusercontent.com/98575856/160063796-64914555-c1ba-465a-9a08-79b6094f5854.gif)
 
 ## 👋 Hi, I’m @BagLee
 - 👀 I’m interested in playing video games
